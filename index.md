@@ -13,7 +13,7 @@ I work closely with Product, Engineering, and Customer Success to ensure documen
 
 <h2>Portfolio samples</h2>
 <ul>
-  <li><a href="/samples/help-center-ia.html">Help Center audit &amp; Redesign for an AI product</a></li>
+  <li><a href="/samples/help-center-ia.html">Help Center audit &amp; redesign for an AI product</a></li>
   <li><a href="/samples/prompting-guide.html">Prompting &amp; iteration guide for AI app builders</a></li>
   <li><a href="/samples/feature-launch-docs.html">Feature launch documentation &amp; release notes</a></li>
 </ul>
