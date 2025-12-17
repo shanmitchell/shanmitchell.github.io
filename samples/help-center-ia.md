@@ -13,17 +13,17 @@ A reconstructed (non-proprietary) example of how I approach auditing and restruc
 As AI-assisted products evolve quickly, Help Centers often become hard to navigate:
 - articles pile up without a consistent structure
 - content overlaps or contradicts itself
-- users can’t find answers quickly, increasing support tickets
-- the tone varies widely, reducing user confidence
+- users can’t find answers quickly
+- the tone varies widely
 
 ## Approach
 ### 1) Audit and inventory
-- Catalog existing articles by topic, user intent, and lifecycle (evergreen vs release-specific)
-- Identify duplicates, gaps, and “where do I start?” dead ends
+- Catalog existing articles by topic, user intent, and lifecycle 
+- Identify duplicates, gaps, and dead ends
 - Flag content that should be merged, split, or retired
 
 ### 2) Define an information architecture that scales
-Organize content around user intent (not internal teams). Example top-level structure:
+Organize content around user intent (not internal teams). Example of top-level structure:
 
 - **Start here**
   - What the product is (and isn’t)
