@@ -1,17 +1,19 @@
 # Shannon Mitchell — Technical Writing Portfolio
 
-Senior Technical Writer with 10+ years of experience creating product documentation and scalable Help Center content for SaaS and AI-driven platforms. I partner with Product, Engineering, and Support/CX to turn complex systems into clear, approachable documentation that improves adoption and reduces support friction.
+Senior Technical Writer with 10+ years of experience shaping product documentation and Help Center experiences for SaaS and AI-driven platforms. I specialize in helping users succeed quickly with complex products by translating evolving systems into clear, approachable, and confidence-building documentation.
 
-## What I do best
+I work closely with Product, Engineering, and CX to ensure documentation is accurate, discoverable, and ready at launch—supporting everyone from first-time builders to advanced users.
+
+## What I focus on
 - Help Center strategy, information architecture, and content audits
-- Modular, structured documentation for mixed technical audiences
-- Release notes and feature documentation aligned to product launches
-- Terminology and standards to keep content consistent as products scale
+- Modular, structured documentation that scales with fast-moving products
+- Feature documentation and release notes aligned to product launches
+- User-focused guidance that supports self-service and reduces support friction
 
 ## Portfolio samples
-- [Help Center audit & IA redesign (AI product)](samples/help-center-ia.md)
+- [Help Center audit & IA redesign for a fast-moving AI product](samples/help-center-ia.md)
 
-## Tools
+## Tools & workflows
 Markdown • GitHub/GitLab • Jira • Confluence • HelpDocs • Snagit • Google Workspace • Microsoft Word
 
 ## Contact
