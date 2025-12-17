@@ -11,9 +11,12 @@ I work closely with Product, Engineering, and Customer Success to ensure documen
 - Feature documentation and release notes aligned to real product behavior
 - User-focused guidance that reduces support friction and builds trust
 
-## Portfolio samples
-- [Help Center audit & IA redesign for a fast-moving AI product](samples/help-center-ia.md)
-- [Prompting & iteration guide for AI app builders](samples/prompting-guide.md)
+<h2>Portfolio samples</h2>
+<ul>
+  <li><a href="/samples/help-center-ia.html">Help Center audit &amp; IA redesign for a fast-moving AI product</a></li>
+  <li><a href="/samples/prompting-guide.html">Prompting &amp; iteration guide for AI app builders</a></li>
+  <li><a href="/samples/feature-launch-docs.html">Feature launch documentation &amp; release notes (AI product)</a></li>
+</ul>
 
 ## Tools & workflows
 Markdown • GitHub/GitLab • Jira • HTML • HelpDocs • Snagit • Google Workspace • Microsoft Word • Visio • Slack • MS Teams
