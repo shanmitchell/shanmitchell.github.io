@@ -18,6 +18,19 @@ I work closely with Product, Engineering, and CX to ensure documentation is accu
 ## Tools & workflows
 Markdown • GitHub/GitLab • Jira • Confluence • HelpDocs • Snagit • Google Workspace • Microsoft Word
 
-## Contact
-- LinkedIn: https://linkedin.com/in/7bshannon
-- Email: 7bshannon@gmail.com
+<h2>Contact</h2>
+<ul>
+  <li>
+    LinkedIn:
+    <a href="https://www.linkedin.com/in/7bshannon" target="_blank" rel="noopener">
+      linkedin.com/in/7bshannon
+    </a>
+  </li>
+  <li>
+    Email:
+    <a href="mailto:7bshannon@gmail.com">
+      7bshannon@gmail.com
+    </a>
+  </li>
+</ul>
+
