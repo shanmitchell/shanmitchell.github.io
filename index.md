@@ -2,7 +2,7 @@
 
 Senior Technical Writer with 10+ years of experience shaping product documentation and Help Center experiences for SaaS and AI-driven platforms. I focus on helping users succeed quickly with powerful, evolving products by turning complex systems into clear, confidence-building guidance.
 
-I work closely with Product, Engineering, and CX to ensure documentation is accurate, discoverable, and ready at launch—supporting everyone from first-time builders to advanced users working at speed.
+I work closely with Product, Engineering, and Customer Success to ensure documentation is accurate, discoverable, and ready at launch. I'm accustomed to supporting everyone from first-time builders to advanced users working at speed.
 
 ## What I bring to product teams
 - Documentation that supports learning, iteration, and successful outcomes
@@ -16,7 +16,7 @@ I work closely with Product, Engineering, and CX to ensure documentation is accu
 - [Prompting & iteration guide for AI app builders](samples/prompting-guide.md)
 
 ## Tools & workflows
-Markdown • GitHub/GitLab • Jira • Confluence • HelpDocs • Snagit • Google Workspace • Microsoft Word
+Markdown • GitHub/GitLab • Jira • HTML • HelpDocs • Snagit • Google Workspace • Microsoft Word • Visio • Slack • MS Teams
 
 <h2>Contact</h2>
 <ul>
