@@ -12,6 +12,7 @@ I work closely with Product, Engineering, and CX to ensure documentation is accu
 
 ## Portfolio samples
 - [Help Center audit & IA redesign for a fast-moving AI product](samples/help-center-ia.md)
+- [Prompting & iteration guide for AI app builders](samples/prompting-guide.md)
 
 ## Tools & workflows
 Markdown • GitHub/GitLab • Jira • Confluence • HelpDocs • Snagit • Google Workspace • Microsoft Word
