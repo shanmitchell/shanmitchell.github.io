@@ -1,4 +1,5 @@
 title: "Shannon Mitchell — Technical Writing Portfolio"
 description: ""
-theme: jekyll-theme-minimal
-show_downloads: false
+remote_theme: pages-themes/primer@v0.6.0
+plugins:
+  - jekyll-remote-theme
