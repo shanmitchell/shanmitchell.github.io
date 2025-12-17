@@ -1,4 +1,4 @@
-# Feature Launch Documentation & Release Notes (AI Product)
+# Feature Launch Documentation & Release Notes
 
 ## What it is
 A reconstructed (non-proprietary) example showing how I document a new feature for an AI-driven product, including Help Center updates and release notes aligned to a product launch.
@@ -63,7 +63,7 @@ Learn how to refine AI-generated output using small, controlled changes while pr
 
 You can now refine AI-generated output in smaller, more controlled steps. Preview changes before applying them, and revert easily if the result isn’t what you expected.
 
-This update makes experimentation faster and more predictable—especially when exploring new ideas.
+This update makes experimentation faster and more predictable, especially when exploring new ideas.
 
 ---
 
@@ -84,4 +84,4 @@ This documentation approach:
 - keeps documentation aligned with real product behavior
 - scales as features evolve
 
-It also ensures documentation is part of the launch—not an afterthought.
+This ensures documentation is part of the launch.
